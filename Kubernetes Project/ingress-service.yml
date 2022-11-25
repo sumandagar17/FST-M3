@@ -1,3 +1,4 @@
+# we have to make sure that we run create secrets and configure nginx if you reset the kubernetes 
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
